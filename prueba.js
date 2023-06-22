@@ -1,4 +1,4 @@
-let letra = "n";
+let letra = "s";
 let nuevaPalabra;
 let cantidadVeces;
 let frase = "assassins";
