@@ -5,7 +5,7 @@ let frase = "perros y peras";
 let totalS;
 
 function contarS()  {
-    letra=prompt("escribe la letra a contar"); if(letra.length>1) {
+    letra=prompt("escribe la letra a contar"); while(letra.length>1) {
         letra=prompt("solo una letra porfa")
     }
     frase=prompt("escribe algo");
